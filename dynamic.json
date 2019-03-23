@@ -1,0 +1,42 @@
+{
+  "basics":
+  {
+    "img":"images/aaa.jpg",
+  "name":"manoj",
+"email":"manojpachipala38@gmail.com"
+},
+"career":{
+  "info":"i want to go horsely hills by a walk"
+},
+"educational":[
+{
+  "sno":"1",
+  "degree":"btech",
+  "ins":"mits",
+  "per":"80"
+},
+{
+"sno":"1",
+"degree":"inter",
+"ins":"sdjc",
+"per":"95"
+},
+{
+  "sno":"1",
+  "degree":"ssc",
+  "ins":"vcp",
+  "per":"85"
+  }
+],
+"skills":[{
+  "info":"c"
+},
+{
+  "info":"c++"
+},
+{
+  "info":"java"
+}
+]
+
+}

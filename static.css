@@ -1,0 +1,33 @@
+body{
+  background: green;
+  display: flex;
+}
+.main{
+  display: flex;
+}
+.left{
+  background: lightpink;
+
+  width: 100%;
+  text-align: center;
+  margin: 5%;
+  padding: 5%;
+  border-radius: 5%;
+  box-shadow: 5%;
+}
+.right{
+  background: lightblue;
+  margin: 5%;
+  padding: 5%;
+  border-radius: 5%;
+  width: 50%;
+  flex-wrap: wrap;
+  box-shadow: 5%;
+}
+image{
+  width: 50%;
+  height: 50%;
+}
+table{
+  border: 1px solid red;
+}

@@ -1,0 +1,23 @@
+body{
+  background-color:green;
+}
+.parent{
+  justify-content: space-around;
+  background-color: blue;
+  margin: 4%;
+  display : flex;
+}
+.child{
+  border: 2px solid blue;
+  text-align: centre;
+  width: 30%;
+  box-shadow: 5px 5px red;
+  margin:1%;
+}
+  .parent{
+    flex-wrap: wrap;
+  }
+  .child{
+    flex-wrap: wrap;
+  }
+}
